@@ -183,10 +183,10 @@ ul{
 }
 
 #home .slide1{
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/Images/Home/home-slide-1.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/Images/Home/);
 }
 #home .slide2{
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/Images/Home/home-slide-2.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/Images//Home//photo-1504894109846-7b54dec7d6d2.avif);
 }
 
 
@@ -478,7 +478,7 @@ ul{
 /* Quote */
 #quote{
     padding: 150px 0;
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/Images//quote/quote-img.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/Images//quote/photo-1599709729326-f70748c8db1c.avif);
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
