@@ -183,10 +183,10 @@ ul{
 }
 
 #home .slide1{
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/Images/Home/);
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/Images/Home/photo-1554355409-7d69eaad80d9.avif);
 }
 #home .slide2{
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/Images//Home//photo-1504894109846-7b54dec7d6d2.avif);
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/Images//Home/photo-1504894109846-7b54dec7d6d2.avif);
 }
 
 
